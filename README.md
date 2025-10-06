@@ -1,4 +1,4 @@
-# Automatic Light Controller using LDR and Arduino UNO controller.
+<img width="1080" height="702" alt="Screenshot 2025-10-06 110454" src="https://github.com/user-attachments/assets/0ff9ef66-8750-4294-bc66-08e73fcc6a71" /># Automatic Light Controller using LDR and Arduino UNO controller.
 
 ##  AIM:
 
@@ -65,8 +65,10 @@ LDR Features of LDR are as follows:
 ## PROGRAM:
 
 ## CIRCUIT DIAGRAM:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/90745115-16a9-4f0c-99ff-e1a67e6907c5" />
 
 ## OUTPUT:
+<img width="1080" height="702" alt="Screenshot 2025-10-06 110454" src="https://github.com/user-attachments/assets/9e8ddc08-2dcc-4abf-a5dd-48fd55c7f793" />
 
 ## RESULT:
 Thus the automatic light controller was designed and simulated using LDR and Arduino UNO controller.
