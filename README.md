@@ -1,5 +1,3 @@
-<img width="1080" height="702" alt="Screenshot 2025-10-06 110454" src="https://github.com/user-attachments/assets/0ff9ef66-8750-4294-bc66-08e73fcc6a71" /># Automatic Light Controller using LDR and Arduino UNO controller.
-
 ##  AIM:
 
 To design and simulate automatic light controller using LDR and Arduino UNO controller in proteus.
